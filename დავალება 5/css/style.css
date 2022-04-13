@@ -1,0 +1,72 @@
+.logo{
+  dispalay: inline-block;	
+  vertical-align: middle;
+  margin-left: 40px;
+  color: red;
+}
+
+.nav{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 92px;
+}
+.li1{
+
+	display: inline-block;
+}
+.div1{
+	width: 1160px;
+	margin: 0  auto;
+	
+}
+.marcxena{
+	position: relative;
+	width: 360px;
+	display: inline-block;
+	margin-left: 0px;
+	
+
+}
+.shua {
+	width: 360px;
+	display: inline-block;
+  margin-left: 40px;
+}
+.marjvena{
+	width: 360px;
+	display: inline-block;
+	  margin-left: 40px;
+}
+.h2 { 
+	vertical-align: text-top;
+ }
+.sectione3{
+	width: 1160px;
+	margin: 0 auto;
+ margin-top: 60px;
+}
+.div2 {
+	width: 750px;
+	position:relative ;
+
+}
+.div3{
+	width: 360px;
+	margin-left: 790px;
+	margin-top: -850px;
+}
+.image3{
+	margin-top: 102px;
+}
+
+.marcxena1 {
+	position: absolute;
+	margin: -170px 40px 306px 40px;
+	color: #fff;
+	
+}
+.divup1{
+	position: relative;
+	color: #fff;
+
+}
